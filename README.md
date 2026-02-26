@@ -47,7 +47,7 @@ The goal is to enable data-driven marketing decisions by answering:
 -ETL and data modeling for star-schema reporting 
 
 
-
+<img width="1174" height="661" alt="image" src="https://github.com/user-attachments/assets/cdd7c19f-bd20-4e5e-96a3-55880a352961" />
 <img width="1073" height="602" alt="Screenshot 2025-11-04 073910" src="https://github.com/user-attachments/assets/9db55421-d1a9-4e88-9d4f-f6214d4928e7" />
 <img width="1070" height="590" alt="Screenshot 2025-11-04 073938" src="https://github.com/user-attachments/assets/81e84898-ae09-4151-8d5e-81505b5c146c" />
 <img width="1081" height="607" alt="Screenshot 2025-11-04 074021" src="https://github.com/user-attachments/assets/08d7db50-82c4-4367-95c9-a54e52ab06b5" />
